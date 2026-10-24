@@ -1,0 +1,5 @@
+vehicle,capacity_units,cost_per_km_aed,max_hours,temperature
+V1,500,0.9,8,Ambient
+V2,350,1.2,8,Chilled
+V3,350,1.2,8,Chilled
+V4,500,0.9,8,Ambient

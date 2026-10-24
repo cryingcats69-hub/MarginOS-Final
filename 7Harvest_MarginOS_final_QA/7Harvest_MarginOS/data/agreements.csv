@@ -1,0 +1,76 @@
+outlet,brand,type,rebate_rate
+O01,RK,RK Discount Item,0.0037
+O01,RK,RK Promo Item,0.0334
+O01,RK,Rice Item,0.0471
+O01,RK,Other,0.0346
+O01,Soorya,Soorya,0.0245
+O02,RK,RK Discount Item,0.0361
+O02,RK,RK Promo Item,0.0186
+O02,RK,Rice Item,0.0368
+O02,RK,Other,0.0071
+O02,Soorya,Soorya,0.0226
+O03,RK,RK Discount Item,0.0018
+O03,RK,RK Promo Item,0.0046
+O03,RK,Rice Item,0.0305
+O03,RK,Other,0.0127
+O03,Soorya,Soorya,0.0332
+O04,RK,RK Discount Item,0.0363
+O04,RK,RK Promo Item,0.0485
+O04,RK,Rice Item,0.0195
+O04,RK,Other,0.0175
+O04,Soorya,Soorya,0.0241
+O05,RK,RK Discount Item,0.0065
+O05,RK,RK Promo Item,0.0365
+O05,RK,Rice Item,0.0451
+O05,RK,Other,0.026
+O05,Soorya,Soorya,0.0351
+O06,RK,RK Discount Item,0.0527
+O06,RK,RK Promo Item,0.0384
+O06,RK,Rice Item,0.041
+O06,RK,Other,0.0489
+O06,Soorya,Soorya,0.0197
+O07,RK,RK Discount Item,0.0358
+O07,RK,RK Promo Item,0.0395
+O07,RK,Rice Item,0.0463
+O07,RK,Other,0.0189
+O07,Soorya,Soorya,0.041
+O08,RK,RK Discount Item,0.0332
+O08,RK,RK Promo Item,0.0225
+O08,RK,Rice Item,0.0056
+O08,RK,Other,0.0194
+O08,Soorya,Soorya,0.0534
+O09,RK,RK Discount Item,0.0119
+O09,RK,RK Promo Item,0.0063
+O09,RK,Rice Item,0.0202
+O09,RK,Other,0.0056
+O09,Soorya,Soorya,0.022
+O10,RK,RK Discount Item,0.0503
+O10,RK,RK Promo Item,0.0175
+O10,RK,Rice Item,0.0322
+O10,RK,Other,0.0131
+O10,Soorya,Soorya,0.0401
+O11,RK,RK Discount Item,0.007
+O11,RK,RK Promo Item,0.0434
+O11,RK,Rice Item,0.0233
+O11,RK,Other,0.0101
+O11,Soorya,Soorya,0.0441
+O12,RK,RK Discount Item,0.0305
+O12,RK,RK Promo Item,0.0241
+O12,RK,Rice Item,0.0132
+O12,RK,Other,0.043
+O12,Soorya,Soorya,0.0264
+O13,RK,RK Discount Item,0.0024
+O13,RK,RK Promo Item,0.0531
+O13,RK,Rice Item,0.0017
+O13,RK,Other,0.0066
+O13,Soorya,Soorya,0.031
+O14,RK,RK Discount Item,0.0114
+O14,RK,RK Promo Item,0.0184
+O14,RK,Rice Item,0.0312
+O14,RK,Other,0.0527
+O14,Soorya,Soorya,0.0521
+O15,RK,RK Discount Item,0.0041
+O15,RK,RK Promo Item,0.0469
+O15,RK,Rice Item,0.0092
+O15,RK,Other,0.0446
+O15,Soorya,Soorya,0.0233

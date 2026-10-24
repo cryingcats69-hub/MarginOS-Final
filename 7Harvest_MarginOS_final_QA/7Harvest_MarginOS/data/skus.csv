@@ -1,0 +1,28 @@
+sku,brand,category,name,type,unit_price,case_size,shelf_life_days,temperature,regulated_category,unit_cogs
+RK001,RK,Pulses,Moong dal 500g,RK Discount Item,10.65,6,180,Ambient,True,6.6562
+RK002,RK,Rice,Basmati rice 1000g,Rice Item,18.15,12,180,Ambient,True,11.3438
+RK003,RK,Spice powders,Turmeric powder 1500g,Other,15.63,12,180,Ambient,False,9.7688
+RK004,RK,Beans & peas,Black-eye beans 2000g,RK Discount Item,26.55,12,180,Ambient,False,16.5938
+RK005,RK,Whole spices,Cumin whole 500g,RK Promo Item,29.53,24,180,Ambient,False,18.4562
+RK006,RK,Miscellaneous,Cooking oil 1000g,Other,22.97,6,180,Ambient,True,14.3562
+RK007,RK,Flour,Atta 1500g,RK Discount Item,13.76,6,180,Ambient,True,8.6
+RK008,RK,Seeds,Sesame 2000g,RK Promo Item,29.92,24,180,Ambient,False,18.7
+RK009,RK,Nuts & dry fruits,Cashews 500g,Other,22.53,12,180,Ambient,False,14.0812
+RK010,RK,Pulses,Moong dal 1000g,RK Discount Item,19.39,24,180,Ambient,True,12.1188
+RK011,RK,Rice,Basmati rice 1500g,Rice Item,27.47,12,180,Ambient,True,17.1688
+RK012,RK,Spice powders,Turmeric powder 2000g,Other,14.81,12,180,Ambient,False,9.2562
+RK013,RK,Beans & peas,Black-eye beans 500g,RK Discount Item,13.23,6,180,Ambient,False,8.2688
+RK014,RK,Whole spices,Cumin whole 1000g,RK Promo Item,19.67,6,180,Ambient,False,12.2938
+RK015,RK,Miscellaneous,Cooking oil 1500g,Other,17.2,6,180,Ambient,True,10.75
+RK016,RK,Flour,Atta 2000g,RK Discount Item,6.33,12,180,Ambient,True,3.9562
+RK017,RK,Seeds,Sesame 500g,RK Promo Item,17.64,24,180,Ambient,False,11.025
+RK018,RK,Nuts & dry fruits,Cashews 1000g,Other,11.08,12,180,Ambient,False,6.925
+RK019,RK,Pulses,Moong dal 1500g,RK Discount Item,21.47,6,180,Ambient,True,13.4188
+SO001,Soorya,Fresh & frozen,Malabar porotta,Soorya,10.9,5,14,Chilled,False,4.36
+SO002,Soorya,Fresh & frozen,Whole wheat porotta,Soorya,18.37,5,14,Chilled,False,7.348
+SO003,Soorya,Fresh & frozen,Whole wheat chapati,Soorya,14.89,10,7,Chilled,False,5.956
+SO004,Soorya,Fresh & frozen,Rice idiyappam,Soorya,19.31,5,12,Chilled,False,7.724
+SO005,Soorya,Fresh & frozen,Idli/dosa batter,Soorya,12.63,10,9,Chilled,False,5.052
+SO006,Soorya,Fresh & frozen,Appam batter,Soorya,11.15,10,9,Chilled,False,4.46
+SO007,Soorya,Fresh & frozen,Ragi batter,Soorya,11.08,10,5,Chilled,False,4.432
+SO008,Soorya,Fresh & frozen,Palakkadan matta rice,Soorya,16.11,5,9,Chilled,False,6.444

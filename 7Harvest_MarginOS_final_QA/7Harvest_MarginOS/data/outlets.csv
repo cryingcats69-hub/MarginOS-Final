@@ -1,0 +1,16 @@
+outlet,name,locality,x_km_proxy,y_km_proxy,demand_factor,window_start,window_end
+O01,Synthetic Outlet 1,Sharjah,22.19,26.1,0.832,8,15
+O02,Synthetic Outlet 2,Dubai,24.68,27.97,0.961,10,16
+O03,Synthetic Outlet 3,Ajman,22.27,21.15,1.173,9,18
+O04,Synthetic Outlet 4,Abu Dhabi,18.73,0.08,1.256,10,19
+O05,Synthetic Outlet 5,Al Ain,14.69,22.5,0.765,10,15
+O06,Synthetic Outlet 6,Sharjah,44.54,2.64,0.951,11,18
+O07,Synthetic Outlet 7,Dubai,14.14,25.52,0.992,10,15
+O08,Synthetic Outlet 8,Ajman,43.13,39.98,1.135,11,16
+O09,Synthetic Outlet 9,Abu Dhabi,42.62,1.06,0.908,8,19
+O10,Synthetic Outlet 10,Al Ain,30.23,21.93,0.765,9,16
+O11,Synthetic Outlet 11,Sharjah,27.19,22.12,1.121,8,17
+O12,Synthetic Outlet 12,Dubai,40.07,41.33,0.832,10,16
+O13,Synthetic Outlet 13,Ajman,35.45,28.76,1.162,11,15
+O14,Synthetic Outlet 14,Abu Dhabi,41.28,10.5,1.12,10,18
+O15,Synthetic Outlet 15,Al Ain,6.06,27.7,0.982,11,15
